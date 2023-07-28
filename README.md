@@ -1,2 +1,2 @@
 # S.S.Contact-Tracer
-A Python code made to accept responses as well as show said responses to an authorized personnel to determine and trace key individuals.
+A Python code made to accept information entries of individuals as well as show said entries to determine and trace key individuals using search function.
